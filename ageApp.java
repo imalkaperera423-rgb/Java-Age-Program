@@ -1,9 +1,9 @@
-public class ageApp {
+public class AgeApp {
     public static void main(String[] args) {
 
         int age = 83;
 
-        // Underage 
+        // Underage
         if (age > 0 && age < 18) {
             System.out.println("You are underage.");
 
@@ -40,10 +40,10 @@ public class ageApp {
             System.out.println("Congratulations!");
             System.out.println("Congratulations!");
             System.out.println("Congratulations!");
-          
         }
 
         // Mid life
+        //happy mid life
         if (age >= 40 && age <= 50) {
             System.out.println("Happy mid life!");
         }
